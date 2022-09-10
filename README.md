@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ProgMonzer
 - 👀 I’m interested in Programming Languages
-- 🌱 I’m currently Mastering C++, JAVA, PYTHON, & FRONT END WEB DEVELEPMENT
 - 📫 How to reach me monzershekho@gmail.com
